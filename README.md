@@ -1,2 +1,2 @@
 # odin_recipes
-A recipe website
+This is recipe website that will get my html journey started in a great way!
